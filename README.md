@@ -1,4 +1,4 @@
-A solo example (original from nanovg-zig/examples/example_blur.zig) using [nanovg-zig(https://github.com/fabioarnold/nanovg-zig).
+A solo example (original from nanovg-zig/examples/example_blur.zig) using [nanovg-zig](https://github.com/fabioarnold/nanovg-zig).
 
 Demo build.zig (zig 0.14.0-dev.2218) on how to use dependency and its resouces:
 
