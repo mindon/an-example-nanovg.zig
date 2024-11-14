@@ -1,0 +1,18 @@
+.{
+    .name = "demo",
+    .version = "0.0.1",
+    .minimum_zig_version = "0.14.0",
+
+    .dependencies = .{
+        .@"nanovg.zig" = .{
+            .url = "https://github.com/fabioarnold/nanovg-zig/archive/refs/heads/main.zip",
+            .hash = "1220b250289d2cef214eb84565c5a7f2553032f3ab8540848e33ea6b966be0da3416",
+        },
+    },
+
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
